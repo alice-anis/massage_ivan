@@ -1,0 +1,225 @@
+body {
+  letter-spacing: 1px; }
+
+a {
+  color: #0f9e07; }
+
+p {
+  color: #222; }
+
+.color_element {
+  color: #0f9e07; }
+
+.color_bg {
+  background-color: #0f9e07; }
+
+.color_border {
+  border-color: #0f9e07; }
+
+.bg_light {
+  background-color: #fff; }
+
+.header_bg {
+  background-color: #323231; }
+
+.logo_container svg path {
+  fill: #0f9e07; }
+
+.header_menu a {
+  color: #323231; }
+.header_menu a:hover {
+  color: #0f9e07; }
+.header_menu li {
+  background: url(../../img/div_line_2.png) no-repeat right; }
+
+.toggle_mnu {
+  background-color: #0f9e07; }
+
+.top_mnu a {
+  color: #fff; }
+.top_mnu a:hover {
+  color: #0f9e07; }
+
+.title_text h1,
+.title_text p {
+  color: #fff; }
+
+.header_buttons a {
+  border: 1px solid #323231;
+  background-color: #fff;
+  color: #323231; }
+.header_buttons a:hover {
+  background-color: #323231;
+  color: #fff; }
+
+section h2 {
+  color: #323231; }
+section h3 {
+  color: #0f9e07;
+  letter-spacing: 2px; }
+section h4 {
+  letter-spacing: 2px; }
+section .theme_color {
+  color: #0f9e07; }
+section li {
+  color: #222; }
+section .choice {
+  color: #0f9e07; }
+  section .choice a {
+    color: #fbf31e; }
+
+.social a {
+  color: #0f9e07; }
+.social a:hover {
+  color: #1eb316; }
+
+.articles,
+.documents {
+  background-color: #1eb316; }
+  .articles h2,
+  .documents h2 {
+    color: #323231; }
+  .articles .article,
+  .documents .article {
+    background-color: #fff; }
+    .articles .article a,
+    .documents .article a {
+      color: #323231;
+      letter-spacing: 2px; }
+    .articles .article a:hover,
+    .documents .article a:hover {
+      color: #0f9e07; }
+
+.articles .art_btn {
+  color: #323231;
+  background-color: #fff; }
+
+.art_gradient a {
+  color: #0f9e07; }
+.art_gradient a:hover {
+  color: #1eb316; }
+
+.price,
+.gallery {
+  background-color: #323231; }
+  .price h2,
+  .price .describe p,
+  .price table,
+  .gallery h2,
+  .gallery .describe p,
+  .gallery table {
+    color: #fff; }
+  .price .describe::after,
+  .gallery .describe::after {
+    background-color: #fff; }
+  .price th,
+  .gallery th {
+    color: #0f9e07; }
+
+.first_col {
+  color: #0f9e07; }
+
+.price span {
+  color: #0f9e07; }
+.price button {
+  background-color: #0f9e07;
+  color: #fff; }
+.price button:hover {
+  background-color: #1eb316; }
+
+.myself_icon i {
+  color: #0f9e07; }
+
+.about_massage {
+  background-color: #fff; }
+  .about_massage h3 {
+    color: #323231; }
+  .about_massage button, .about_massage .price_button {
+    background-color: #0f9e07;
+    color: #fff; }
+  .about_massage button:hover, .about_massage .price_button:hover {
+    background-color: #1eb316; }
+
+.massage_descr h4 {
+  color: #323231; }
+
+.massage_details a {
+  color: #323231; }
+
+.gallery ul li {
+  letter-spacing: 1.5px; }
+.gallery ul li.active {
+  color: #1eb316; }
+
+.item_container h3 {
+  color: #1eb316;
+  letter-spacing: 1.5px; }
+.item_container a {
+  color: #1eb316;
+  border: 1px solid #1eb316; }
+
+.port_descr {
+  background-color: #000; }
+  .port_descr h3,
+  .port_descr p {
+    color: #1eb316; }
+
+.contact_box .contact_icon {
+  color: #0f9e07; }
+.contact_box h3 {
+  letter-spacing: 1.5px; }
+
+.contacts button {
+  background-color: #0f9e07;
+  color: #fff; }
+.contacts button:hover {
+  background-color: #1eb316; }
+
+.text-danger li {
+  color: red; }
+
+form input:focus,
+form textarea:focus {
+  box-shadow: 0 0 8px rgba(15, 158, 7, 0.8); }
+form input,
+form textarea {
+  border: 1px solid #0f9e07;
+  letter-spacing: 2px; }
+
+.form_item,
+.form-group {
+  color: #222; }
+
+.feedback_cont h4 {
+  color: #222; }
+
+.jcarousel-control-prev,
+.jcarousel-control-next {
+  color: #222; }
+
+.feedback button {
+  background-color: #0f9e07;
+  color: #fff; }
+.feedback button:hover {
+  background-color: #1eb316; }
+
+.price th {
+  color: #0f9e07; }
+
+.article_body {
+  background-color: #fff; }
+  .article_body h1 {
+    color: #323231; }
+
+.articles_text {
+  background-color: #1eb316; }
+
+.artpage_wrapper {
+  background-color: #1eb316; }
+
+.artpage_body {
+  background-color: #fff; }
+  .artpage_body h1 {
+    color: #323231; }
+
+/*# sourceMappingURL=green.css.map */
